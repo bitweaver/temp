@@ -1,4 +1,2 @@
-<FilesMatch "\.ph(p(3|4)?|tml)$">
-    order deny,allow
-    deny from all
-</FilesMatch>
+order deny,allow
+deny from all
