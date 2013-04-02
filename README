@@ -1,9 +1,0 @@
-Temporary storage of cache, modules and compile Smarty templates.
-
-The temp directory needs to be writable by the webserver (apache) user.
-
-A command the will probably work is:
-
-chmod 777 -R temp/
-
-It's not the safest. Adjust to your level of security paranoia.
